@@ -1,0 +1,26 @@
+{
+  "name": "react-treemap",
+  "version": "0.0.1",
+  "description": "Treemap React Component",
+  "main": "treemap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yang-wei/react-treemap.git"
+  },
+  "keywords": [
+    "treemap"
+  ],
+  "author": "yang-wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yang-wei/react-treemap/issues"
+  },
+  "homepage": "https://github.com/yang-wei/react-treemap",
+  "dependencies": {
+    "d3": "^3.5.2",
+    "react": "^0.12.1"
+  }
+}
